@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addr>
+	<data>
+		<name>홍길동</name>
+		<tel>01093228292</tel>
+		<email>kjfhd@gmail.com</email>
+	</data>
+	<data>
+		<name>김길동</name>
+		<tel>01030288292</tel>
+		<email>asdgvd@gmail.com</email>
+	</data>
+	<data>
+		<name>이길동</name>
+		<tel>01093222131</tel>
+		<email>kalajs@gmail.com</email>
+	</data>
+</addr>
